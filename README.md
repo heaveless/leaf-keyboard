@@ -2,7 +2,7 @@
 	<h1>Leaf Keyboard</h1>
 </p>
 
-# About Leaf Keyboard
+## About Leaf Keyboard
 
 I'm absolutely thrilled to share with you my little application. I created it to customize the layout of my tablet, turning it into my personal computer. Along the way, I faced some challenges, especially with keyboards that had different mappings than what I was used to.
 
